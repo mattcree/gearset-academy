@@ -59,9 +59,9 @@
         <detailHeading>false</detailHeading>
         <editHeading>false</editHeading>
         <label>Custom Links</label>
-        <layoutColumns/>
-        <layoutColumns/>
-        <layoutColumns/>
+        <layoutColumns />
+        <layoutColumns />
+        <layoutColumns />
         <style>CustomLinks</style>
     </layoutSections>
     <relatedLists>
@@ -131,6 +131,7 @@
         <fields>EndTime</fields>
         <fields>Status</fields>
         <fields>Label</fields>
+        <fields>Type</fields>
         <relatedList>ServiceResourceShifts</relatedList>
     </relatedLists>
     <showEmailCheckbox>false</showEmailCheckbox>
